@@ -1,0 +1,11 @@
+id,title,category,description
+1,LangChain Basics,AI,LangChain provides document loaders and text splitters for building LLM applications.
+2,RAG Concept,AI,Retrieval Augmented Generation combines external knowledge with language models.
+3,PDF Loader,Tool,PyPDFLoader extracts text from PDF files page by page.
+4,CSV Loader,Tool,CSVLoader converts spreadsheet rows into structured documents.
+5,Text Splitter,Processing,Character and recursive splitters divide long text into smaller chunks.
+6,Chunk Overlap,Processing,Overlap preserves context between adjacent text chunks.
+7,Vector Search,Retrieval,Embeddings enable similarity search over document chunks.
+8,Prompt Engineering,LLM,Well designed prompts improve answer quality and reliability.
+9,Web Loader,Tool,WebBaseLoader fetches public website content for analysis.
+10,Knowledge Assistant,Project,A personal assistant answers questions from private documents.
